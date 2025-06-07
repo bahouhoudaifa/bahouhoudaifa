@@ -17,14 +17,7 @@
 </div>
 
  <hr/>
- 
-<h2 align="center">Languages-Frameworks-Tools</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,c#" /><br>
-    <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,bootstrap,tailwind,mongodb,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,figma,git" />
-</div>
+
 
 <br/>
 <hr/>
